@@ -1,4 +1,4 @@
-# How to use this boilerplate
+# How to use this repo during the training
 
 1. Navigate to the repo here [https://github.com/codurance/typescript-boilerplate](https://github.com/codurance/typescript-boilerplate)
 2. Click the Fork button from the top right corner of the page
